@@ -30,8 +30,8 @@ https://learning.oreilly.com/library/view/effective-python-125/9780138172398/
 18. Use zip to Process Iterators in Parallel
 19. Avoid else Blocks After for and while Loops
 20. Never Use for Loop Variables After the Loop Ends
-21.
-22.
+21. Be Defensive when Iterating over Arguments
+22. Never Modify Containers While Iterating over Them; Use Copies or Caches Instead
 23.
 24.
 25.
